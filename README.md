@@ -5,14 +5,17 @@ This repository is my journey on learning how to scrape the internet for content
 # Milestones
 
 The intention behind this is to build a portfolio repository with an agragate of features and technologies to showcase my skills and determination. For this specific part, I have a few milestones I'd like to achieve:
-- Complete the full course available on provided link above
-  Yes, it's important to complete the basic and to know the basic, so completing the course is one important step on this journey.
- 
-- Develop another web scraping project to look for car information on the web
-  As a result of previous learning, implement a new vision with more complex data to filter through and little assistance provided for the specific case scenario. A proof of learning.
+- **Complete the full course available on provided link above**
   
-- Report
-  Though the previous step should be able fulfill any doubts on capacity and skills acquired, I need to be able to report my doings and learnings in a simple way.
+Yes, it's important to complete the basic and to know the basic, so completing the course is one important step on this journey.
+ 
+- **Develop another web scraping project to look for car information on the web**
+  
+As a result of previous learning, implement a new vision with more complex data to filter through and little assistance provided for the specific case scenario. A proof of learning.
+  
+- **Report**
+  
+Though the previous step should be able fulfill any doubts on capacity and skills acquired, I need to be able to report my doings and learnings in a simple way.
 
 # Considerations
 
