@@ -24,4 +24,5 @@ As I am here a project manager, product owner and developer, it would be easy to
 # Call to action
 
 If you found me and are just visiting, further information might be provided later on but by all means: ask, suggest or criticize.
+
 If you actually found me due to me sending a CV to your company, talk to me about other works I've done not using this account, as I've created accounts using corporate emails in the past as a way to not mix work + personal business. Let me tell you more about the things I've done in the big hiatus seen here on the other repositories.
